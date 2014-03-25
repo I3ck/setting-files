@@ -1,0 +1,18 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+  "ignored_packages": [],
+  "font_face": "proFont",
+  "font_size": 7,
+  "margin": 0,
+  "highlight_line": true,
+  "caret_style": "phase",
+  "shift_tab_unindent": true,
+  "vintage_start_in_command_mode": true,
+  "trim_trailing_white_space_on_save": true,
+  "tab_completion": false,
+  "highlight_modified_tabs": true,
+  "show_tab_close_buttons": false,
+  
+   "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+   "file_exclude_patterns": ["*.woff,*.jpg,*.jpeg,*.png,*.bmp,*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"]
+}
